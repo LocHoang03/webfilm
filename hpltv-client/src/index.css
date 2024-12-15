@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html,
+body {
+  width: 100% !important;
+  max-width: 100%;
+  overflow-x: hidden !important;
+  position: relative;
+}

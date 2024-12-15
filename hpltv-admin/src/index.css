@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --white: #fff;
+  --black: #000;
+  --layout-trigger-bg: #002140;
+  --login-bg: #44425b;
+  --btn-form: #83e4ed;
+}
+
+.btn-180 {
+  width: 180px !important;
+}
